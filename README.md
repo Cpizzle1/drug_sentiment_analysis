@@ -14,7 +14,7 @@ Data overview
 ![most common drugs](images/Ten_most_common_drugs.png)
 
 
-![lowest rated drugs](images/drugs_rated_1.png.png)
+![lowest rated drugs](images/drugs_rated_1.png)
 
 ![highest rated drugs](images/drugs_rated_10.png)
 
@@ -54,7 +54,7 @@ Negative Reviews
 # NLP & Sentiment Analysis
 ![feature importance ](images/feature_importance.png)
 
-
+using LGBMClassifier an accuracy of 86% was obtained 
 
 
 ### reference work by HARSH JAIN
