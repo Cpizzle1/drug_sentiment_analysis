@@ -54,7 +54,10 @@ Negative Reviews
 # NLP & Sentiment Analysis
 ![feature importance ](images/feature_importance.png)
 
-using LGBMClassifier an accuracy of 86% was obtained 
+using LGBMClassifier an accuracy of 86% was obtained to predict postive, neutral or negative sentiment from review/comments data.
+postive 7-10 rating of drug
+neutral 4-6 rating of drug
+negative 0-3 rating of drug
 
 
 ### reference work by HARSH JAIN
